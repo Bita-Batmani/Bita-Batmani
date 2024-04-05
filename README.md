@@ -2,7 +2,6 @@
 - 👀 I’m interested in programming and cyber security
 - 🌱 I’m currently learning front-end web development
 - 📫 How to reach me @kurasa.sibx on ig
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i hate pink 
 
 <!---
